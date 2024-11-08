@@ -1,0 +1,51 @@
+E:\work development\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.deps.json
+E:\work development\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.dll
+E:\work development\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+E:\work development\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.AssemblyReference.cache
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.resources
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.en-US.resources
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.GenerateResource.cache
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.GeneratedMSBuildEditorConfig.editorconfig
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfoInputs.cache
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfo.cs
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.CoreCompileInputs.cache
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.dll
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\refint\ItRootsTask-presistance.dll
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.pdb
+E:\work development\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ref\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.deps.json
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.AssemblyReference.cache
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.resources
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.en-US.resources
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.GenerateResource.cache
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.GeneratedMSBuildEditorConfig.editorconfig
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfoInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfo.cs
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.CoreCompileInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\refint\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ref\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.deps.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.resources
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask_Business.SharedResourceMessages.en-US.resources
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.AssemblyInfo.cs
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\refint\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ItRootsTask-presistance.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask-Business\obj\Debug\net8.0\ref\ItRootsTask-presistance.dll

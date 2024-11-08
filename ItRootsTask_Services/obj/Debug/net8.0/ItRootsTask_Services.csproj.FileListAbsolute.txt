@@ -1,0 +1,54 @@
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.deps.json
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.pdb
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.pdb
+E:\work development\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.AssemblyReference.cache
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfoInputs.cache
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfo.cs
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.CoreCompileInputs.cache
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.CopyComplete
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\refint\ItRootsTask_Services.dll
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.pdb
+E:\work development\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ref\ItRootsTask_Services.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.AssemblyReference.cache
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.GeneratedMSBuildEditorConfig.editorconfig
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfoInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfo.cs
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.CoreCompileInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\refint\ItRootsTask_Services.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.deps.json
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsT.E1CD5588.Up2Date
+K:\my projects\git\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ref\ItRootsTask_Services.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.AssemblyInfo.cs
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.deps.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask_Services.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\ItRootsTask-Application.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.csproj.CopyComplete
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\refint\ItRootsTask_Services.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ItRootsTask_Services.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask_Services\obj\Debug\net8.0\ref\ItRootsTask_Services.dll

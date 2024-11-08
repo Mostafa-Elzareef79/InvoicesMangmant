@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ItRootsTask-WebUi.props" />
+</Project>

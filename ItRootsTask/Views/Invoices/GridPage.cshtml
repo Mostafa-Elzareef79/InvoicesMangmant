@@ -1,0 +1,50 @@
+﻿@using ItRootsTask_Core.Features.InvoicesFeatures.Query;
+@model List<AllInvoicesVM>
+
+
+<h2>Invoices</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Date</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int index = 1; 
+            }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@index</td> 
+                    <td>@item.InvoiceDate</td>
+                    <td>
+                        <form asp-controller="Invoices" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                        
+                    </td>
+                </tr>
+                index++;
+            }
+       
+        </tbody>
+    </table>
+}
+else
+{
+    <div class=" text-center alert alert-danger">
+        لا توجد فواتير متاحة في الوقت الحالي.
+    </div>
+}
+

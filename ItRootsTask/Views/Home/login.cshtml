@@ -1,0 +1,41 @@
+﻿<div class="login-container" id="loginContainer">
+    <img src="~/images/logo.png" alt="Logo" class="logo">
+    <div class="language-toggle" id="language-icon">
+        <i class="fas fa-globe"></i>
+    </div>
+
+    <h2 id="login-title">Login</h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <span class="text-danger" >
+            @TempData["ErrorMessage"]
+        </span>
+    }
+
+    <form action="/Login" method="POST" onsubmit="return validateCaptcha();">
+        <input type="text" id="username-placeholder" name="username" placeholder="Username" required>
+        <input type="password" id="password-placeholder" name="password" placeholder="Password" required>
+
+        <div class="captcha">
+            <input type="text" id="captcha-display" readonly disabled>
+            <button type="button" id="refresh-captcha" onclick="generateCaptcha()">
+                <i class="fas fa-sync-alt"></i>
+            </button>
+        </div>
+
+        <input type="text" id="captcha-input" placeholder="Enter code" required>
+        <span class="text-danger" id="captchaError"></span>
+
+        <button type="submit" id="sign-in-btn" class="btn login-btn">Sign In</button>
+    </form>
+
+    <hr />
+
+    <form asp-action="Register" asp-controller="Register">
+        <span class="text-center" id="orText">or</span>
+        <button type="submit" id="register-btn" class="btn register-btn">Register</button>
+    </form>
+</div>
+
+

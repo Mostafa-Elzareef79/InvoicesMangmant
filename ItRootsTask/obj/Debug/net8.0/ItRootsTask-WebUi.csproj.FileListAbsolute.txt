@@ -1,0 +1,255 @@
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.Development.json
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.json
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.staticwebassets.runtime.json
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.exe
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.deps.json
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.runtimeconfig.json
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.pdb
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Core.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Identity.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Dapper.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.ClientModel.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Memory.Data.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.dll
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.pdb
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.pdb
+E:\work development\ItRootsTask\ItRootsTask\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.AssemblyReference.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.GeneratedMSBuildEditorConfig.editorconfig
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfoInputs.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfo.cs
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.CoreCompileInputs.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.MvcApplicationPartsAssemblyInfo.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cs
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.build.json
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.development.json
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.ItRootsTask-WebUi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.build.ItRootsTask-WebUi.props
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ItRootsTask-WebUi.props
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ItRootsTask-WebUi.props
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.pack.json
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\bundle\ItRootsTask-WebUi.styles.css
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\projectbundle\ItRootsTask-WebUi.bundle.scp.css
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.CopyComplete
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.dll
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\refint\ItRootsTask-WebUi.dll
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.pdb
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.genruntimeconfig.cache
+E:\work development\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ref\ItRootsTask-WebUi.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.AssemblyReference.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.GeneratedMSBuildEditorConfig.editorconfig
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfoInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfo.cs
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.CoreCompileInputs.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.MvcApplicationPartsAssemblyInfo.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cs
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\refint\ItRootsTask-WebUi.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.Development.json
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.json
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.staticwebassets.runtime.json
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.exe
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.deps.json
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.runtimeconfig.json
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Core.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Identity.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Dapper.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Contracts.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.ClientModel.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Memory.Data.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Runtime.Caching.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.pdb
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.build.json
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.development.json
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.ItRootsTask-WebUi.Microsoft.AspNetCore.StaticWebAssets.props
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.build.ItRootsTask-WebUi.props
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ItRootsTask-WebUi.props
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ItRootsTask-WebUi.props
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.pack.json
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\bundle\ItRootsTask-WebUi.styles.css
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\projectbundle\ItRootsTask-WebUi.bundle.scp.css
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsT.5F34F304.Up2Date
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.genruntimeconfig.cache
+K:\my projects\git\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ref\ItRootsTask-WebUi.dll
+K:\my projects\git\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.AssemblyInfo.cs
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.RazorAssemblyInfo.cs
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\appsettings.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.staticwebassets.runtime.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.exe
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.deps.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.runtimeconfig.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-WebUi.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Dapper.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-presistance.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask-Application.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\ItRootsTask_Services.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\bin\Debug\net8.0\en-US\ItRootsTask-presistance.resources.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.ItRootsTask-WebUi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.build.ItRootsTask-WebUi.props
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ItRootsTask-WebUi.props
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ItRootsTask-WebUi.props
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\bundle\ItRootsTask-WebUi.styles.css
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\scopedcss\projectbundle\ItRootsTask-WebUi.bundle.scp.css
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.csproj.CopyComplete
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\refint\ItRootsTask-WebUi.dll
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.pdb
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ItRootsTask-WebUi.genruntimeconfig.cache
+C:\Users\dell\Downloads\ItRootsTask\ItRootsTask\obj\Debug\net8.0\ref\ItRootsTask-WebUi.dll

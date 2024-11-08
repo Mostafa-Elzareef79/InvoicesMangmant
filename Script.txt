@@ -1,0 +1,260 @@
+CREATE DATABASE TEST;
+GO
+
+USE TEST;
+GO
+
+-- إنشاء جدول المستخدمين
+CREATE TABLE Users (
+    Id INT PRIMARY KEY IDENTITY(1,1),  
+    FullName NVARCHAR(100) NOT NULL,   
+    UserName NVARCHAR(50) UNIQUE NOT NULL, 
+    Password NVARCHAR(256) NOT NULL, 
+    Email NVARCHAR(100) UNIQUE NOT NULL, 
+    PhoneNumber NVARCHAR(15),   
+    IsVerified BIT DEFAULT 0,   
+    VerificationCode NVARCHAR(6)
+);
+GO
+
+-- إنشاء جدول الفواتير
+CREATE TABLE Invoices (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    InvoiceDate DATETIME DEFAULT GETDATE(),
+    TotalAmount DECIMAL(18, 2) NOT NULL
+);
+GO
+
+-- إنشاء جدول عناصر الفواتير
+CREATE TABLE InvoiceItems (
+    Id INT PRIMARY KEY IDENTITY(1,1),  
+    InvoiceId INT NOT NULL,  
+    ProductName NVARCHAR(100) NOT NULL, 
+    Quantity INT NOT NULL, 
+    Price DECIMAL(18, 2) NOT NULL, 
+    FOREIGN KEY (InvoiceId) REFERENCES Invoices(Id) ON DELETE CASCADE  
+);
+GO
+
+-- إجراء إضافة أو تعديل فاتورة
+CREATE PROCEDURE AddOrEditInvoice
+    @InvoiceId INT = 0,
+    @TotalAmount DECIMAL(18, 2),      
+    @InvoiceDate DATETIME = NULL,     
+    @is_success INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF @InvoiceDate IS NULL
+        SET @InvoiceDate = GETDATE();
+
+    IF @InvoiceId = 0  
+    BEGIN
+        INSERT INTO Invoices (TotalAmount, InvoiceDate)
+        VALUES (@TotalAmount, @InvoiceDate);
+
+        SET @is_success = SCOPE_IDENTITY();
+    END
+    ELSE  
+    BEGIN
+        IF EXISTS (SELECT 1 FROM Invoices WHERE Id = @InvoiceId)
+        BEGIN
+            UPDATE Invoices
+            SET TotalAmount = @TotalAmount, InvoiceDate = @InvoiceDate
+            WHERE Id = @InvoiceId;
+
+            SET @is_success = @InvoiceId;
+        END
+        ELSE
+        BEGIN
+            SET @is_success = -5;
+        END
+    END
+END;
+GO
+
+-- إجراء حذف الفواتير
+CREATE PROCEDURE DeleteInvoices
+    @InvoiceId INT,
+    @is_success INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF EXISTS (SELECT 1 FROM Invoices WHERE Id = @InvoiceId)
+    BEGIN
+        DELETE FROM Invoices WHERE Id = @InvoiceId;
+        SET @is_success = 1;
+    END
+    ELSE
+    BEGIN
+        SET @is_success = -5;
+    END
+END;
+GO
+
+-- إجراء استرجاع جميع الفواتير أو فاتورة معينة
+CREATE PROCEDURE GetAllInvoices
+    @InvoiceId INT = -1
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF @InvoiceId = -1  
+    BEGIN
+        SELECT * FROM Invoices;
+    END
+    ELSE
+    BEGIN
+        SELECT * FROM Invoices WHERE Id = @InvoiceId;
+    END
+END;
+GO
+
+-- إجراء إضافة أو تعديل عناصر الفواتير
+CREATE PROCEDURE AddOrEditInvoiceItems
+    @InvoiceItemId INT = 0,
+    @InvoiceId INT,
+    @ProductName NVARCHAR(100),        
+    @Quantity INT,
+    @Price DECIMAL(18, 2),
+    @is_success INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF @InvoiceItemId = 0  
+    BEGIN
+        INSERT INTO InvoiceItems (InvoiceId, ProductName, Quantity, Price)
+        VALUES (@InvoiceId, @ProductName, @Quantity, @Price);
+
+        SET @is_success = SCOPE_IDENTITY();
+    END
+    ELSE  
+    BEGIN
+        IF EXISTS (SELECT 1 FROM InvoiceItems WHERE Id = @InvoiceItemId)
+        BEGIN
+            UPDATE InvoiceItems
+            SET ProductName = @ProductName, Quantity = @Quantity, Price = @Price
+            WHERE Id = @InvoiceItemId;
+
+            SET @is_success = @InvoiceItemId;
+        END
+        ELSE
+        BEGIN
+            SET @is_success = -5;
+        END
+    END
+END;
+GO
+
+-- إجراء التحقق من حالة المستخدم ورمز التحقق
+CREATE PROCEDURE UpdateUserVerificationStatus
+    @username NVARCHAR(50),
+    @code NVARCHAR(50),
+    @is_success INT OUTPUT
+AS
+BEGIN
+    IF EXISTS (SELECT 1 FROM Users WHERE username = @username AND VerificationCode = @code)
+    BEGIN
+        UPDATE Users
+        SET IsVerified = 1
+        WHERE username = @username AND VerificationCode = @code;
+
+        SET @is_success = 1;
+    END
+    ELSE
+    BEGIN
+        SET @is_success = -5;
+    END
+END;
+GO
+
+-- إجراء التحقق من وجود المستخدم وحالة التوثيق
+CREATE PROCEDURE check_user_status
+    @UserName NVARCHAR(100),
+    @is_success INT OUTPUT,
+    @is_verified INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF EXISTS (
+        SELECT 1 FROM Users WHERE Username = @UserName
+    )
+    BEGIN
+        SET @is_success = 1;
+
+        SELECT @is_verified = 
+            CASE 
+                WHEN IsVerified = 1 THEN 1 
+                ELSE 0 
+            END
+        FROM Users
+        WHERE Username = @UserName;
+    END
+    ELSE
+    BEGIN
+        SET @is_success = -5;
+        SET @is_verified = 0;
+    END
+END;
+GO
+
+-- إجراء التحقق من اسم المستخدم وكلمة المرور
+CREATE PROCEDURE check_user_password
+    @UserName NVARCHAR(100),
+    @Password NVARCHAR(100),
+    @is_success INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF EXISTS (
+        SELECT 1 
+        FROM Users 
+        WHERE Username = @UserName AND Password = @Password
+    )
+    BEGIN
+        SET @is_success = 1;
+    END
+    ELSE
+    BEGIN
+        SET @is_success = -5;
+    END
+END;
+GO
+
+-- إجراء إضافة حساب مستخدم جديد
+CREATE PROCEDURE AddUserAccountNewst
+    @FullName NVARCHAR(100),
+    @PhoneNumber NVARCHAR(20),
+    @Email NVARCHAR(100),
+    @UserName NVARCHAR(50),
+    @VerificationCode NVARCHAR(50),
+    @Password NVARCHAR(50),
+    @is_success INT OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF EXISTS (SELECT 1 FROM Users WHERE UserName = @UserName)
+    BEGIN
+        SET @is_success = -5;
+        RETURN;
+    END
+
+    INSERT INTO Users (FullName, PhoneNumber, Email, UserName, Password, VerificationCode)
+    VALUES (@FullName, @PhoneNumber, @Email, @UserName, @Password, @VerificationCode);
+
+    IF @@ROWCOUNT > 0
+    BEGIN
+        SET @is_success = 1;
+    END
+    ELSE
+    BEGIN
+        SET @is_success = -1;
+    END
+END;
+GO

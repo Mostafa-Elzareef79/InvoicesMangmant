@@ -1,0 +1,134 @@
+﻿
+
+/* Login Container */
+.login-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    position: relative;
+}
+
+/* Language Toggle */
+.language-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+    .language-toggle img {
+        width: 24px;
+        cursor: pointer;
+    }
+
+/* Form Inputs */
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+/* Captcha Section */
+.captcha {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.captcha-image {
+    width: 60px;
+    height: 30px;
+    object-fit: cover;
+}
+
+/* Buttons */
+.btn {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.register-btn {
+    background-color: #008CBA;
+    color: white;
+}
+
+
+.login-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    position: relative;
+}
+
+.language-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+    .language-toggle img {
+        width: 24px;
+        cursor: pointer;
+    }
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.captcha {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+    .captcha input {
+        width: 60%;
+        margin-right: 5px;
+    }
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.register-btn {
+    background-color: #008CBA;
+    color: white;
+}
+#refresh-captcha {
+    cursor: pointer;
+    border-radius: 50%;
+    width:50px;
+    
+}
